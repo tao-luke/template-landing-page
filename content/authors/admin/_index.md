@@ -67,17 +67,12 @@ highlight_name: true
 I am a 3rd year Computer Science student with both interest and experience in developing high-performance software. I most recently interned at Huawei Canada, where I helped design and implement cryptographic frameworks from scratch using C.
 
 I work most comfortably in:
-* C++
-  * OpenSSL
-  * mBedTLS
-  * Ncurse
+* C++ ( OpenSSL, mBedTLS, Ncurse )
 * C
-* Python
-  * Pytorch
-  * Scikit-learn
+* Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab
 
 Outside of academics, I am a passionate climber (bouldering) and an avid fan of philosophy and combinatorics. I also love calisthenics!
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Luke.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Luke.pdf" "newtab" >}}resume{{< /staticref >}}
