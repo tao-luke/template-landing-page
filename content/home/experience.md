@@ -44,7 +44,7 @@ experience:
     company_logo: kalei_icon
     location: Toronto
     date_start: '2021-04-01'
-    date_end: '2020-09-01'
+    date_end: '2021-09-01'
     description: |1-
         * Developed various system and user-facing features, including a concurrent movie search system in C++11 that provides fast and accessible content navigation on an industry-leading cinema playback system
 
