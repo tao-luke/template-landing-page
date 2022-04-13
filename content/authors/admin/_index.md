@@ -19,7 +19,7 @@ bio: My main interest is in system software design and distributed systems. But 
 # Interests to show in About widget
 interests:
 - System Software Design
-- Lower Level Optimizations
+- Optimizations
 - Distributed Systems
 
 # Education to show in About widget
@@ -64,11 +64,11 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 3rd year Computer Science student with both the interest and experience in developing high-performance software. I most recently interned at Huawei Canada, where I helped design and implement cryptographic frameworks from scratch using C.
+I am a 3rd year Computer Science student with both the interest and experience in developing high-performance software. I most recently interned at Huawei Canada, where I helped design and implement cryptographic frameworks using C.
 
 I work most comfortably in:
-* C++ ( OpenSSL, mBedTLS, Ncurse )
-* C
+* C++ ( Ncurse )
+* C ( OpenSSL, mBedTL )
 * Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab
 
