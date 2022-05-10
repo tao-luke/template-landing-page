@@ -64,11 +64,11 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 3rd year Computer Science student with both the interest and experience in developing high-performance software. I most recently interned at Huawei Canada, where I helped design and implement cryptographic frameworks using C.
+I am a 3rd year Computer Science student with an interest in lower-level systems. I am currently an URA helping out with high performance user threading research. My most recent internship was at Huawei Canada, where I designed and implemented cryptographic frameworks in C. 
 
 I work most comfortably in:
-* C++ ( Ncurse )
-* C ( OpenSSL, mBedTL )
+* C++
+* C ( OpenSSL, mBedTLS )
 * Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab
 
