@@ -64,7 +64,7 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 3rd year Computer Science student with an interest in lower-level systems. Currently, I am an URA helping out with high performance user threading research. My most recent internship was at Huawei Canada, where I designed and implemented cryptographic frameworks in C. In the coming Fall, I will be working as a firmware engineer at Sibros in San Francisco.
+I am a 3rd year Computer Science student with an interest in lower-level systems. Currently, I am an URA helping out with high performance user threading research. My most recent internship was at Huawei Canada, where I designed and implemented cryptographic frameworks in C. In the coming Fall, I will be interning as a firmware engineer at Sibros in San Francisco.
 
 I work most comfortably in:
 * C++
