@@ -64,15 +64,16 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 3rd year Computer Science student with an interest in lower-level systems. Currently, I am an URA helping out with high performance user threading research. My most recent internship was at Huawei Canada, where I designed and implemented cryptographic frameworks in C. In the coming Fall, I will be working as a firmware engineer at Sibros in San Francisco.
+I am a 4th year computer science student with experience and interest in lower-level systems and firmware. Currently, I am a firmware engineer intern at Sibros working on vehicle RTOS. Before this, I was an URA under high performance user threading research. In the coming winter, I will be interning in Palo Alto at Tesla as a vehicle software engineer.
 
 I work most comfortably in:
+* C ( OpenSSL, mBedTLS, GDB, Valgrind)
 * C++
-* C ( OpenSSL, mBedTLS, GDB)
+* CMake, Make, Bazel
 * Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab
 
-Outside of academics, I am a passionate climber (bouldering) and an avid fan of philosophy and combinatorics. I also love calisthenics!
+Outside of academics, I am a passionate climber and an avid fan of philosophy and combinatorics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Luke.pdf" "newtab" >}}resume{{< /staticref >}}

@@ -28,6 +28,15 @@ date_format: Jan 2006
     #     * Modelling
     #     * Deploying
 experience:
+  - title: Firmware Engineer Intern
+    company: Sibros
+    company_url: 'https://www.sibros.tech/'
+    company_logo: Sibros
+    location: San Jose
+    date_start: '2022-09-07'
+    date_end: '2022-12-23'
+    description: |1-
+        * Implement MQTT and CAN related features on production level RTOS firmware with 100% line and branch coverage using C, Unity, and Bazel
   - title: Software Engineer Intern
     company: Huawei Canada
     company_url: 'https://www.huawei.com/ca/'
