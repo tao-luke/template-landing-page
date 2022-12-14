@@ -64,11 +64,11 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 4th year computer science student with experience and interest in lower-level systems and firmware. Currently, I am a firmware engineer intern at Sibros working on vehicle RTOS. Before this, I was an URA under high performance user threading research. In the coming winter, I will be interning in Palo Alto at Tesla as a vehicle software engineer.
+I am a 4th year computer science student with experience and interest in lower-level systems. Currently, I am a firmware engineer intern at Sibros working on vehicle RTOS. Before this, I was an URA under high performance user threading research. In the coming winter, I will be interning in Palo Alto at Tesla as a vehicle firmware engineer.
 
 I work most comfortably in:
 * C ( OpenSSL, mBedTLS, GDB, Valgrind)
-* C++
+* C++ (Unity test, Google test)
 * CMake, Make, Bazel
 * Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab
