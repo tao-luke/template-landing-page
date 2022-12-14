@@ -36,7 +36,7 @@ experience:
     date_start: '2022-09-07'
     date_end: '2022-12-23'
     description: |1-
-        * Built RTOS logging features with 100% branch and line unit-test coverage using C, Unity, and Bazel. One of which was a heuristic-based MQTT packet transmission protocol, increasing MTU utilization by at least 204% when averaged over 1000 independent executions.
+        * Built RTOS logging features with 100% branch and line unit-test coverage using C, Unity, and Bazel. One of which was a heuristic-based MQTT packet transmission protocol, increasing MTU utilization by at least 204% when averaged over 10,000 independent executions.
   - title: Software Engineer Intern
     company: Huawei Canada
     company_url: 'https://www.huawei.com/ca/'
