@@ -64,7 +64,7 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 4th year computer science student with both experience and interest in embedded systems. Currently, I am a firmware engineer intern at Sibros working on vehicle RTOS. Before this, I was an URA at UWaterloo for high performance user threading research. In the coming winter, I will be interning in Palo Alto at Tesla as a vehicle firmware engineer.
+I am a 4th year computer science student with both experience and interest in embedded systems. Currently, I am a firmware engineer intern at Tesla working on vehicle simulations. Before this, I was an URA at UWaterloo for high performance user threading research.
 
 I work comfortably in:
 * C ( OpenSSL, mBedTLS, GDB, Valgrind )
@@ -73,7 +73,7 @@ I work comfortably in:
 * Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab
 
-Outside of academics, I am a passionate climber and an avid fan of philosophy and combinatorics.
+Outside of academics, I am a passionate climber and an avid fan of philosophy. I am always down to chat! Just send me a message :)
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Luke.pdf" "newtab" >}}resume{{< /staticref >}}
