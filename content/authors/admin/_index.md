@@ -64,11 +64,12 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 4th year computer science student with both experience and interest in embedded systems. Currently, I am a firmware engineer intern at Tesla working on vehicle simulations. Before this, I was an URA at UWaterloo for high performance user threading research.
+I am a 4th year computer science student with both experience and interest in embedded systems. Most recently, I was a software engineer intern at Tesla working on vehicle simulations. Before that, I was an URA at UWaterloo for high performance user threading research.
 
 I work comfortably in:
 * C ( OpenSSL, mBedTLS, GDB, Valgrind )
 * C++ ( Unity test, Google test )
+* Rust
 * CMake, Make, Bazel
 * Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
 * Matlab

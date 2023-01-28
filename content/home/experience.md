@@ -28,6 +28,15 @@ date_format: Jan 2006
     #     * Modelling
     #     * Deploying
 experience:
+  - title: Vehicle Simulation Intern
+    company: Tesla
+    company_url: 'https://www.tesla.com/'
+    company_logo: Tesla
+    location: Palo Alto
+    date_start: '2023-01-17'
+    date_end: '2023-04-21'
+    description: |1-
+        * Engineering time series based assertion algorithms for state-of-the-art SIL vehicle simulation using Rust
   - title: Firmware Engineer Intern
     company: Sibros
     company_url: 'https://www.sibros.tech/'
