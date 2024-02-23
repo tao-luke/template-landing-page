@@ -31,7 +31,7 @@ experience:
   - title: Autopilot Core Intern
     company: Tesla
     company_url: 'https://www.tesla.com/'
-    company_logo: Tesla
+    company_logo: Tesla1
     location: Palo Alto
     date_start: '2024-01-01'
     date_end: 'Present'
