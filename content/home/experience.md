@@ -74,16 +74,6 @@ experience:
     date_end: '2021-09-01'
     description: |1-
         * Developed various system and user-facing features, including a concurrent movie search system in C++11 that provides fast and accessible content navigation on an industry-leading cinema playback system
-
-  - title: Full Stack Developer Intern
-    company: Digital Extremes
-    company_url: 'https://www.digitalextremes.com/'
-    company_logo: digi_icon
-    location: Waterloo
-    date_start: '2020-05-09'
-    date_end: '2020-09-01'
-    description: |1-
-        * Ironed out the main server data pipeline in MERN stack, using JS and Python, by creating multiple Google Cloud based web scripts to automate news parsing and content deployment, eliminating manual labor throttles in the engineering cycle
 design:
   columns: '2'
   view: '1'
