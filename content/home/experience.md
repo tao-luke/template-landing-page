@@ -35,7 +35,7 @@ experience:
     location: Palo Alto
     date_start: '2024-01-01'
     description: |1-
-        * Develop features on SoCs and kernel to enable self-driving vehicles
+        * Developed features on SoCs and brought up drivers to enable self driving cars
   - title: Vehicle Simulation Intern
     company: Tesla
     company_url: 'https://www.tesla.com/'
@@ -53,7 +53,8 @@ experience:
     date_start: '2022-09-07'
     date_end: '2022-12-23'
     description: |1-
-        * Built RTOS logging features with 100% branch and line unit-test coverage using C, Unity, and Bazel. One of which was a heuristic-based MQTT packet transmission protocol, increasing MTU utilization by at least 204% when averaged over 10,000 independent executions.
+        * Built RTOS logging features with 100% branch and line unit-test coverage using C, Unity, and Bazel. 
+        * Implemented a heuristic-based MQTT packet transmission protocol that increased MTU utilization by at least 204% when averaged over 10,000 independent executions.
   - title: Software Engineer Intern
     company: Huawei Canada
     company_url: 'https://www.huawei.com/ca/'
@@ -62,7 +63,7 @@ experience:
     date_start: '2021-09-07'
     date_end: '2021-12-24'
     description: |1-
-        * Researched state-of-the-art cryptographical methodologies from NIST and implemented various secure, chip-compatible data authentication frameworks integrated in MbedTLS using OpenSSL and C
+        * Researched modern cryptographical methodologies from NIST and implemented various secure, chip-compatible data authentication frameworks integrated in MbedTLS using OpenSSL and C
         
   - title: Systems Engineer Intern
     company: Kaleidescape

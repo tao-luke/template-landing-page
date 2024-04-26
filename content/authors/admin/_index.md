@@ -18,9 +18,9 @@ bio: My main interest is in system software design and distributed systems. But 
 
 # Interests to show in About widget
 interests:
-- System Software Design
+- RTOS
+- System Drivers
 - Optimizations
-- Distributed Systems
 
 # Education to show in About widget
 education:
@@ -68,7 +68,6 @@ I am a 4th year computer science student with both experience and interest in em
 
 I work comfortably in:
 * C ( Kernel modules, GDB, Valgrind )
-* C++ ( Unity test, Google test )
 * Rust
 
 Outside of academics, I am a passionate climber and an avid fan of philosophy. I am always down to chat! Just send me a message :)
