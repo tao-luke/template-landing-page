@@ -28,6 +28,14 @@ date_format: Jan 2006
     #     * Modelling
     #     * Deploying
 experience:
+  - title: Autopilot Core Intern
+    company: Tesla
+    company_url: 'https://www.tesla.com/'
+    company_logo: Tesla1
+    location: Palo Alto
+    date_start: '2024-01-01'
+    description: |1-
+        * Developed features on SoCs and brought up drivers to enable self driving cars
   - title: Vehicle Simulation Intern
     company: Tesla
     company_url: 'https://www.tesla.com/'
@@ -36,7 +44,7 @@ experience:
     date_start: '2023-01-17'
     date_end: '2023-04-21'
     description: |1-
-        * Engineering time series based assertion algorithms for state-of-the-art SIL vehicle simulation using Rust
+        * Engineered time series based assertion algorithms for state-of-the-art SIL vehicle simulation using Rust
   - title: Firmware Engineer Intern
     company: Sibros
     company_url: 'https://www.sibros.tech/'
@@ -45,7 +53,8 @@ experience:
     date_start: '2022-09-07'
     date_end: '2022-12-23'
     description: |1-
-        * Built RTOS logging features with 100% branch and line unit-test coverage using C, Unity, and Bazel. One of which was a heuristic-based MQTT packet transmission protocol, increasing MTU utilization by at least 204% when averaged over 10,000 independent executions.
+        * Built RTOS logging features with 100% branch and line unit-test coverage using C, Unity, and Bazel. 
+        * Implemented a heuristic-based MQTT packet transmission protocol that increased MTU utilization by at least 204% when averaged over 10,000 independent executions.
   - title: Software Engineer Intern
     company: Huawei Canada
     company_url: 'https://www.huawei.com/ca/'
@@ -54,7 +63,7 @@ experience:
     date_start: '2021-09-07'
     date_end: '2021-12-24'
     description: |1-
-        * Researched state-of-the-art cryptographical methodologies from NIST and implemented various secure, chip-compatible data authentication frameworks integrated in MbedTLS using OpenSSL and C
+        * Researched modern cryptographical methodologies from NIST and implemented various secure, chip-compatible data authentication frameworks integrated in MbedTLS using OpenSSL and C
         
   - title: Systems Engineer Intern
     company: Kaleidescape
@@ -65,16 +74,6 @@ experience:
     date_end: '2021-09-01'
     description: |1-
         * Developed various system and user-facing features, including a concurrent movie search system in C++11 that provides fast and accessible content navigation on an industry-leading cinema playback system
-
-  - title: Full Stack Developer Intern
-    company: Digital Extremes
-    company_url: 'https://www.digitalextremes.com/'
-    company_logo: digi_icon
-    location: Waterloo
-    date_start: '2020-05-09'
-    date_end: '2020-09-01'
-    description: |1-
-        * Ironed out the main server data pipeline in MERN stack, using JS and Python, by creating multiple Google Cloud based web scripts to automate news parsing and content deployment, eliminating manual labor throttles in the engineering cycle
 design:
   columns: '2'
   view: '1'

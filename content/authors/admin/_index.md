@@ -18,9 +18,9 @@ bio: My main interest is in system software design and distributed systems. But 
 
 # Interests to show in About widget
 interests:
-- System Software Design
+- RTOS
+- System Drivers
 - Optimizations
-- Distributed Systems
 
 # Education to show in About widget
 education:
@@ -64,15 +64,11 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 4th year computer science student with both experience and interest in embedded systems. Most recently, I was a software engineer intern at Tesla working on vehicle simulations. Before that, I was an URA at UWaterloo for high performance user threading research.
+I am a 4th year computer science student with both experience and interest in embedded systems and low-level development. Currently, I am a software engineer intern at Tesla working on Autopilot core. Before that, I was an URA at UWaterloo for high performance user-threading research.
 
 I work comfortably in:
-* C ( OpenSSL, mBedTLS, GDB, Valgrind )
-* C++ ( Unity test, Google test )
+* C ( Kernel modules, GDB, Valgrind )
 * Rust
-* CMake, Make, Bazel
-* Python ( Numpy, Pytorch, OpenCV, Scikit-learn )
-* Matlab
 
 Outside of academics, I am a passionate climber and an avid fan of philosophy. I am always down to chat! Just send me a message :)
 
