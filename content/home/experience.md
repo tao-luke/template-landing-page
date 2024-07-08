@@ -34,6 +34,7 @@ experience:
     company_logo: Tesla1
     location: Palo Alto
     date_start: '2024-01-01'
+    date_end: '2024-05-01'
     description: |1-
         * Developed features on SoCs and brought up drivers to enable self driving cars
   - title: Vehicle Simulation Intern

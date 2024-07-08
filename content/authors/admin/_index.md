@@ -64,7 +64,7 @@ email: "luketao@icloud.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a 4th year computer science student with both experience and interest in embedded systems and low-level development. Currently, I am a software engineer intern at Tesla working on Autopilot core. Before that, I was an URA at UWaterloo for high performance user-threading research.
+I am a 4th year computer science student with both experience and interest in embedded systems and kernel development. Most recently, I wrote drivers for Tesla working o the Autopilot core. Before that, I was an URA at UWaterloo for high performance user-threading research.
 
 I work comfortably in:
 * C ( Kernel modules, GDB, Valgrind )
